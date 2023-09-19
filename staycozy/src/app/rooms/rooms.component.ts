@@ -12,9 +12,9 @@ export class RoomsComponent implements OnInit {
   numberofRooms = 10;
   hiderooms = false;
   rooms:Rooms = {
-    // availableRooms: 10,
-    // bookedRooms: 10,
-    // totalRooms: 5
+    availableRooms: 10,
+    bookedRooms: 10,
+    totalRooms: 5
   }
 
   
